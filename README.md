@@ -14,7 +14,7 @@ CustomWord adalah aplikasi sederhana yang memungkinkan pengguna mengubah teks ke
 
 ## 📸 Screenshot
 
-![CustomWord Screenshot](./screenshot.png)
+![CustomWord Screenshot](./src/img/Screenshot.png)
 
 ## 🛠️ Teknologi yang Digunakan
 
