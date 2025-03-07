@@ -66,7 +66,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Jika memiliki pertanyaan atau saran, hubungi saya melalui:
 
-- 📧 Email: [fadlirvnsya@gmail.com](mailto\:fadlirvnsya@gmail.com)
+- 📧 Email: [fadlirvnsya@gmail.com](mailto\:fadlirvnsyah@gmail.com)
 - 🔗 GitHub: @Fadli-Rivansyah
 
 ---
